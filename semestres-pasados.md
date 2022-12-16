@@ -17,8 +17,9 @@ title: Semestres pasados
 
 En esta sección podrás encontrar links a algunos proyectos de semestres pasados. Con algunos proyectos **será necesario que hagan _zoom out_** para poder ver la visualización como corresponde.
 
-### 2020 - 2021
+### 2020 - 2022
 
+- [Salon de la fama 2022](https://puc-infovis.github.io/version-2022/salon_de_la_fama.html)
 - [Salon de la fama 2021](https://puc-infovis.github.io/version-2021/salon_de_la_fama.html)
 - [Salon de la fama 2020](https://puc-infovis.github.io/version-2020/salon_de_la_fama.html)
 
