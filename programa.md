@@ -3,6 +3,24 @@ layout: default
 title: Programa
 ---
 
+## Tabla de contenidos <!-- omit in toc --> 
+- [1. Descripción](#1-descripción)
+- [2. Objetivo general](#2-objetivo-general)
+- [3. Resultados de aprendizaje](#3-resultados-de-aprendizaje)
+- [4. Contenidos específicos](#4-contenidos-específicos)
+- [5. Metodología](#5-metodología)
+- [6. Evaluación](#6-evaluación)
+  - [6.1 Revisión de contenidos (opcional)](#61-revisión-de-contenidos-opcional)
+  - [6.2 Tareas (obligatorio)](#62-tareas-obligatorio)
+  - [6.3 Proyecto (obligatorio)](#63-proyecto-obligatorio)
+  - [6.4 Examen Bonus (opcional)](#64-examen-bonus-opcional)
+  - [6.5 Recorrección](#65-recorrección)
+  - [6.6 Flexibilidad de evaluaciones](#66-flexibilidad-de-evaluaciones)
+  - [6.7 Calificaciones y aprobación](#67-calificaciones-y-aprobación)
+- [7. Integridad académica](#7-integridad-académica)
+- [8. Bibliografía](#8-bibliografía)
+
+
 ## 1. Descripción
 
 En la época actual donde los datos e información abundan y sobran, las habilidades de comunicación de la información son clave. El área de visualización de información es una intersección no trivial entre disciplinas computacionales, de diseño gráfico y de psicología perceptiva. Este curso revisa cómo explorar este espacio común y muestra tanto técnicas computacionales como de diseño gráfico para guiar la creación de visualizaciones de información. 
@@ -38,7 +56,15 @@ Al finalizar el curso, sus estudiantes serán capaces de:
 
 El siguiente listado son las temáticas que se revisarán en el curso:
 
-* **Unidad 1**: Análisis y diseño de visualizaciones
+* **Unidad 1**: Implementación de visualizaciones
+    1. **Tecnologías web**: Introducción práctica a las tecnologías web HTML, CSS y JavaScript.
+    
+    2. **Librería D3.js**: Librería de bajo nivel especializada para la creación de visualizaciones de información en conjunto a tecnologías web.
+
+    3. **Google Data Studio**: Software especializado para la creación de visualizaciones de información y _dashboards_.
+
+
+* **Unidad 2**: Análisis y diseño de visualizaciones
 
 	1. **Modelo anidado de análisis y validación**: Cuadro de trabajo propuesto por Tamara Munzner que guía el proceso de análisis, diseño y de validación de visualizaciones de información.
 
@@ -53,14 +79,6 @@ El siguiente listado son las temáticas que se revisarán en el curso:
     6.  **Codificaciones de interacción**: Posibilidades de codificaciones utilizando la interacción de usuarios con herramientas computacionales.
 
 
-* **Unidad 2**: Implementación de visualizaciones
-    1. **Tecnologías web**: Introducción práctica a las tecnologías web HTML, CSS y JavaScript.
-    
-    2. **Librería D3.js**: Librería de bajo nivel especializada para la creación de visualizaciones de información en conjunto a tecnologías web.
-
-    3. **Google Data Studio**: Software especializado para la creación de visualizaciones de información y _dashboards_.
-
-
 ## 5. Metodología
 
 La metodología del curso se basa en clases expositivas, discusiones de ejemplos específicos, evaluaciones formativas y la realización de ejercicios teóricos y prácticos. Adicionalmente, el curso dispondrá de clases prácticas, donde se verán contenidos de programación o uso de _software_ especializado en la confección de visualización y _dashboards_. Se recomienda la asistencia a las clases prácticas con un _notebook_ para poder acceder, replicar, modificar y experimentar con los códigos o _software_ presentado durante dichas clases. 
@@ -70,23 +88,23 @@ El curso contará con ayudantías semanales con el fin de brindar otro espacio d
 
 ## 6. Evaluación
 
-La evaluación de cada estudiante será efectuada mediante cuatro tipos de evaluaciones, algunas opcionales y otras obligatorios: una de naturaleza continua durante el semestre, **la revisión de contenidos**; dos del tipo práctico, **tareas** y un **proyecto**; y una examen final.
+La evaluación de cada estudiante será efectuada mediante cuatro tipos de evaluaciones, algunas opcionales y otras obligatorias: una de naturaleza continua durante el semestre, **la revisión de contenidos**; dos del tipo práctico, **tareas** y un **proyecto**; y una examen final.
 
 Todas estas evaluaciones buscan proponer instancias de práctica o evidencia de las habilidades indicadas al comienzo del documento como resultados de aprendizaje de los y las estudiantes del curso. Hacen esto al proponer situaciones de aplicación de los contenidos del curso ya sea aplicando el proceso de diseño presentado, implementando soluciones mediante programación o utilizando _software_ especializado en confeccionar visualizaciones.
 
 
 ### 6.1 Revisión de contenidos (opcional)
  
-Para la revisión de los 9 contenidos específicos a ver en el curso, se dispondrán de diferentes instancias/actividades que buscan levantar evidencia de que el estudiantado revisó y entendió los contenidos expuestos en el curso. Estas instancias/actividades podrán ser mini controles de alternativas sobre la materia, participar durante la clases en plataformas de aprendizaje basadas en juego como Menti o Kahoo, buscar visualizaciones que cumplan ciertos criterios, entre otros.
+Para la revisión de los contenidos específicos a ver en el curso, se dispondrán de diferentes instancias/actividades que buscan levantar evidencia de que el estudiantado revisó y entendió los contenidos expuestos en el curso. Estas instancias/actividades podrán ser mini controles de alternativas sobre la materia, participar durante la clases en plataformas de aprendizaje basadas en juego como Menti o Kahoo, buscar visualizaciones que cumplan ciertos criterios, entre otros.
 
-Este tipo de evaluación **es opcional** para cada estudiante. Por cada instancia/actividad lograda al 100%, se otorgará **un punto RC**. Por cada **tres puntos RC**, se otorgará 1 décima al promedio final del curso. Esta bonificación hará efecto solo si el estudiantado aprobó el curso.
+Este tipo de evaluación **es opcional** para cada estudiante. Por cada instancia/actividad lograda al 100%, se otorgará **un punto RC**. Cada **tres puntos RC** reunidos por el estudiantado, se otorgará 1 décima al promedio final del curso. Esta bonificación hará efecto solo si el estudiantado aprobó el curso.
 
 
 ### 6.2 Tareas (obligatorio)
 
 Las tareas son evaluaciones sumativas cuyo fin es evaluar y buscan evidencia de ciertas habilidades desarrolladas por las y los estudiantes durante el curso. Este tipo de evaluación **no es opcional** para cada estudiante y su desarrollo es **individual**.
 
-Durante el semestre el curso constará con instancias de tareas prácticas que otorgarían a cada estudiante notas: **T1**, **T2**, **T3**, **T4** y **T5**. Cada tarea contará con un plazo de una semana para su realización a excepción de la **T3** que contará con 2 semanas para su realización.
+Durante el semestre el curso constará con cinco instancias de tareas prácticas que otorgarían a cada estudiante notas: **T1**, **T2**, **T3**, **T4** y **T5**. Cada tarea contará con un plazo de una semana para su realización a excepción de la **T3** que contará con 2 semanas para su realización. Además, todas las entregas serán a las 20:00 hrs.
 
 La nota final de los tareas (**NT**) se calcula como:
 
@@ -121,9 +139,15 @@ En caso de que la respuesta a la solicitud de recorreccion no sea satisfactoria,
 
 Todas las evaluaciones prácticas contarán con fechas y plazos fijos de publicación y entrega, con el fin de marcar el flujo de revisión de contenidos en el curso, y organizar la carga que implica entregar retroalimentación oportuna a cada estudiante.
 
-Para las **tareas** se permitirá realizar entregas con hasta **3 días de atraso**, pero se aplicará un descuento en función del tiempo de atraso. La política de atraso será informada al inicio del curso.
+Para las **tareas** se permitirá realizar entregas con hasta **3 días de atraso**, pero se aplicará un descuento en función del tiempo de atraso. Este descuento consiste en 5 décimas menos por día **a la nota máxima**. En términos matemáticos, la fórmula para calcular la nota final de una evaluación es:
 
-Aún así, en caso de que un o una estudiante presente problemas personales o problemas de fuerza mayor, la persona podrá solicitar una extensión mayor a los 4 días de atraso permitidos. La extensión a otorgar y la penalización por dicha extensión se definirán para cada solicitud.
+```js
+nota_final_tarea = Math.min( (7 − (0.5 × días_de_atraso) ), nota_obtenida ) + bonus
+```
+
+En otras palabras, este descuento solo acota la nota que puede aspilar el estudiantado. En caso que la nota obtenida en la evaluación sea menor a la nota máxima a aspilar, la evaluación no presentará ningún descuento. Luego, una vez aplicado el descuento por atraso, se aplicará cualquier bonus que presente la evaluación.
+
+Aún así, en caso de que un o una estudiante presente problemas personales o problemas de fuerza mayor, la persona podrá solicitar una extensión mayor a los 3 días de atraso permitidos. La extensión a otorgar y la penalización por dicha extensión se definirán para cada solicitud.
 En la mayoría de los casos, se preferirá por extensiones de plazo individuales por sobre extensiones del plazo generales para el curso completo.
 También, se confiará en el criterio personal de cada estudiante en hacer este tipo de solicitudes y la carga que significa en el equipo docente.
 
