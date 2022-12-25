@@ -62,9 +62,11 @@ El siguiente listado son las temáticas que se revisarán en el curso:
 * **Unidad 1**: Implementación de visualizaciones
     1. **Tecnologías web**: Introducción práctica a las tecnologías web HTML, CSS y JavaScript.
     
-    2. **Librería D3.js**: Librería de bajo nivel especializada para la creación de visualizaciones de información en conjunto a tecnologías web.
+    2. **SVG**: Formato de gráfico vectorial y bidimensionales para diseñar las visualizaciones.
+    
+    3. **Librería D3.js**: Librería de bajo nivel especializada para la creación de visualizaciones de información en conjunto a tecnologías web.
 
-    3. **Google Data Studio**: Software especializado para la creación de visualizaciones de información y _dashboards_.
+    4. **Google Data Studio**: Software especializado para la creación de visualizaciones de información y _dashboards_.
 
 
 * **Unidad 2**: Análisis y diseño de visualizaciones
