@@ -13,7 +13,7 @@ title: Programa
   - [6.1 Revisión de contenidos (opcional)](#61-revisión-de-contenidos-opcional)
   - [6.2 Tareas (obligatorio)](#62-tareas-obligatorio)
   - [6.3 Proyecto (obligatorio)](#63-proyecto-obligatorio)
-  - [6.4 Examen Bonus (opcional)](#64-examen-bonus-opcional)
+  - [6.4 Examen *Bonus* (opcional)](#64-examen-bonus-opcional)
   - [6.5 Recorrección](#65-recorrección)
   - [6.6 Flexibilidad de evaluaciones](#66-flexibilidad-de-evaluaciones)
   - [6.7 Calificaciones y aprobación](#67-calificaciones-y-aprobación)
@@ -29,7 +29,7 @@ El curso estará orientado a estudiantes con experiencia básica en programació
 
 ## 2. Objetivo general 
 
-Este curso busca que sus estudiantes conozcan y utilicen un modelo de trabajo complejo para guiar el diseño y la implementación (programación o uso de _softwares_) de herramientas en el área de visualización de información. 
+Este curso busca que sus estudiantes conozcan y utilicen un modelo de trabajo complejo para guiar el diseño y la implementación (programación o uso de _software_) de herramientas en el área de visualización de información. 
 
 ## 3. Resultados de aprendizaje
 
@@ -119,11 +119,11 @@ Durante la segunda mitad del curso, se presentará una última evaluación prác
 Esta busca evaluar el proceso de diseño e implementación aprendido a lo largo del curso en un caso más extenso. Esta evaluación constará de una entrega preliminar con indicar la propuesta de proyecto, la cual será la instancia para recibir retroalimentación sobre el alcance y temática del proyecto a realizar. Luego, se hará una entrega final con la herramienta desarrollada en su completitud. Se dispondrán de módulos de clases y/o de ayudantía para trabajar en esta evaluación de forma presencial.
 
 
-### 6.4 Examen Bonus (opcional)
+### 6.4 Examen *Bonus* (opcional)
 
 A final del curso, se presentará una última evaluación **extensa**, **individual** y **opcional**. 
 
-Esta busca evaluar los aspectos teóricos del curso mediante un conjunto de preguntas de alternativas, verdadero/falso, entre otros. Esta evaluación será en el horario de examen definida por la Dirección de Pregrado y otorgará hasta un máximo de **10 decimas adicionales para la nota final del proyecto**.
+Esta busca evaluar los aspectos teóricos del curso mediante un conjunto de preguntas de alternativas, verdadero/falso, entre otros. Esta evaluación será en el horario de examen definida por la Dirección de Pregrado y otorgará hasta un máximo de **10 décimas adicionales para la nota final del proyecto**.
 
  
 ### 6.5 Recorrección
@@ -145,7 +145,7 @@ Para las **tareas** se permitirá realizar entregas con hasta **3 días de atras
 nota_final_tarea = Math.min( (7 − (0.5 × días_de_atraso) ), nota_obtenida ) + bonus
 ```
 
-En otras palabras, este descuento solo acota la nota que puede aspilar el estudiantado. En caso que la nota obtenida en la evaluación sea menor a la nota máxima a aspilar, la evaluación no presentará ningún descuento. Luego, una vez aplicado el descuento por atraso, se aplicará cualquier bonus que presente la evaluación.
+En otras palabras, este descuento solo acota la nota que puede aspilar el estudiantado. En caso que la nota obtenida en la evaluación sea menor a la nota máxima a aspilar, la evaluación no presentará ningún descuento. Luego, una vez aplicado el descuento por atraso, se aplicará cualquier *bonus* que presente la evaluación.
 
 Aún así, en caso de que un o una estudiante presente problemas personales o problemas de fuerza mayor, la persona podrá solicitar una extensión mayor a los 3 días de atraso permitidos. La extensión a otorgar y la penalización por dicha extensión se definirán para cada solicitud.
 En la mayoría de los casos, se preferirá por extensiones de plazo individuales por sobre extensiones del plazo generales para el curso completo.
@@ -180,9 +180,9 @@ y siempre comenzará del supuesto de que el trabajo de sus estudiantes refleja e
 
 Pero en situaciones donde lo contrario se ponga en evidencia, se tomarán pasos para identificar la verdad y eventualmente aplicar medidas de corrección.
 En aspectos formales, se rige para este curso tanto la política de integridad académica del Departamento de Ciencia de la Computación como el [Código de honor de la Escuela de Ingeniería](https://www.ing.puc.cl/wp-content/uploads/2015/08/cdigo-de-honor.pdf).
-Luego, cualquier situación de **copia** detectada en alguna evaluación tendrá como **sanción un 1.1 final en el curso**. Esto sin perjuicio de sanciones posteriores que estén de acuerdo a la Política de Integridad Académica de la Escuela de Ingeniería y de la Universidad, que sean aplicables al caso.
+Luego, cualquier situación de **falta a la ética** detectada en alguna evaluación tendrá como **sanción un 1.1 final en el curso**. Esto sin perjuicio de sanciones posteriores que estén de acuerdo a la Política de Integridad Académica de la Escuela de Ingeniería y de la Universidad, que sean aplicables al caso.
 
-Debido a la naturaleza de la disciplina en la que se enmarca el curso, está permitido el uso de código escrito por un tercero, pero solo bajo ciertas condiciones. Primero que todo, el uso de código ajeno **siempre debe** estar correctamente referenciado, indicando la fuente de donde se obtuvo. Y por otro lado, se permite el uso de código encontrado en internet u otra fuente de información similar, siempre y cuando su autor sea **externo al curso**, o en su defecto, sea parte del **equipo docente** del curso. Es decir, se puede hacer referencia a código ajeno al curso y código perteneciente al curso pero solo aquel escrito por el equipo docente, como material o ayudantías. Luego, compartir o usar código usado como entrega de una evaluación **actual o pasada** del curso se considera copia.
+Debido a la naturaleza de la disciplina en la que se enmarca el curso, está permitido el uso de código escrito por un tercero, pero solo bajo ciertas condiciones. Primero que todo, el uso de código ajeno **siempre debe** estar correctamente referenciado, indicando la fuente de donde se obtuvo. Y por otro lado, se permite el uso de código encontrado en internet u otra fuente de información similar, siempre y cuando su autor sea **externo al curso**, o en su defecto, sea parte del **equipo docente** del curso. Es decir, se puede hacer referencia a código ajeno al curso y código perteneciente al curso pero solo aquel escrito por el equipo docente, como material o ayudantías. Luego, compartir o usar código usado como entrega de una evaluación **actual o pasada** del curso se considera falta a la ética. Finalmente, está estrictamente prohibido el uso de herramientas de generación de código para la realización de cualquier evaluación, detectar el uso de estas herramientas será considerado como una **falta a la ética**.
 
 ## 8. Bibliografía
 
