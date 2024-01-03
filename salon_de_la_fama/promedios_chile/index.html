@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explicacion graficos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="principal_page_container">
+    <h2>Visualizaciones realizadas a partir de dataset de rendimiento academico de alumnos</h2>
+    <h3>Visualizacion 1: Grafico geografico de Chile: Promedios generales de estudiantes divididos por region y año</h3>
+    <p>Esta visualizacion muestra los promedios generales de los estudiantes de educacion basica y mediade las distintas regiones de Chile, donde, inicialmente
+        se mostraran los promedios de los años 2010 a 2022, para todos los tipos de establecimientos educacionales. Sin embargo, existe la opcion de filtrar por tipo de establecimiento, 
+    año de inicio y año de termino de los datos que se quieren tomar, esto se hace mediante la utilizacion de un drop-down. Ademas, es importante mencionar que cuando se hagan filtraciones por año, esto actualizara el linegraph y el boxplot.</p>
+
+        <p>Por otro lado, se utiliza una escala de colores de rojo, amarillo, verde claro y verde oscuro donde estos corresponderan a los promedios desde 4.9, 5.5, 6.2 y 6.5, respectivamente.
+            Ademas, al realizar hover sobre una region, se mostrara el nombre de la region seleccionada y el promedio de los estudiantes de esa region.
+        </p>
+
+        <p> Es importante hacer notar que las notas en la escala desde 4.9 a 6.5, debido a que, si se hiciera de otra manera, los colores se verian muy similares y no se podria diferenciar bien, 
+            esto a partir de lo aprendido en catedra donde se nos mostro que era relativamente dificil ver las diferencias sutiles entre colores.</p>
+
+        <h3>Visualizacion 2: Linegraph. Promedios generales de estudiantes de educacion basica y media a traves de los años 2010 a 2022 dividido por tipo de establecimiento.</h3>
+        <p>En este apartado se podra ver como han cambiado los promedios generales de los estudiantes de educacion basica y media a traves de los años anteriormente seleccionados, esto 
+            dividido por tipo de establecimiento educacional (municipal, particular subvencionado y particular pagado). </p>
+
+        <p>En este apartado, se utilizara un canal de colores para el tipo de establecimiento, donde rojo se atribuira a municipal, verde a particular subvencionado y morado a particular pagado. Luego, 
+            cuando se haga hover sobre uno de los puntos asociados a cualquiera de las 3 lineas, este mostrara el tipo de establecimiento educacional asociado y la diferencia de promedio general respecto a los otros tipos de establecimientos en ese mismo año.
+        </p>
+
+        <p>Por ultimo, es clave destacar que en este caso nosotros partimos en el 4 en el eje y debido a que ninguno de los promedios generales de region era menor a este, razon por la cual se tomo como innecesario empezarlo desde la nota minima (1)</p>
+
+        <h3>Visualizacion 3: Boxplot. Medidas estadisticas de los promedios generales versus el tipo de establecimiento.</h3>
+
+        <p> En este grafico se podra ver como distribuyen los datos de los rendimientos academicos de estudiantes, donde, en un inicio se mostraran los datos relacionados a los años desde el 2010 al 2022. 
+            Sin embargo, como se dijo anteriormente, al filtrar mediante el geographic chart por años, esto tambien tomara efecto en los años que toma en cuenta el boxplot y hara que cambie en base a eso.</p>
+        <p>Creadores visualizacion: Benjamin Henriquez Soto y Fernando Smith Caro </p>
+
+        
+
+        <div class="container-principal"> 
+        <a href="https://datosabiertos.mineduc.cl/rendimiento-por-estudiante-2/" > Link para ir a la fuente de los datos</a>
+        <a href="vis.html"> Ir a la pagina de las visualizaciones</button>
+        </div>
+
+</body>
+</html>

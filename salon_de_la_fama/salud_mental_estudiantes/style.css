@@ -1,0 +1,19 @@
+body {
+    background-color: #e1a8a2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.container {
+    margin: 0, auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+    background-color: #f3e3c9;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+

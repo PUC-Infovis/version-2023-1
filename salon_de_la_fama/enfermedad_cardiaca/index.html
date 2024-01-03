@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<body>
+    <main>
+        <!-- <h2>Treemap</h2> -->
+        <h1>Enfermedad cardíaca</h1>
+        <h2>Incidencia a lo largo de la vida y principales indicadores</h2>
+        <!-- <h4>Gráfico muestra la proporción de cada rango etario para las enfermedades cardiacas</h4> -->
+        <div id="first">
+            <div>
+                <h3>Cantidad de personas con una enfermedad cardíaca por rango de edad</h3>
+                <div id="my_dataviz"></div>
+                <h3><b>¡Clickea algún grupo para más info abajo!</b></h3>
+            </div>
+            <div>
+                <h3>Evolución de la presencia de factores de riesgo a lo largo de las edades</h3>
+                <div id="my_dataviz3"></div> 
+                <h4>Clickea y arrastra para ver un rango de edades con mayor detalle</h4>
+                <h4>Doble click para volver al original</h4>
+            </div>
+
+        </div>
+        <div id="my_dataviz2"></div>
+    </main>
+
+</body>
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v6.js"></script>
+<script src="script.js"></script>
+<script src="donut_chart_creator.js"></script>
+
+
+<!-- Create a div where the graph will take place -->

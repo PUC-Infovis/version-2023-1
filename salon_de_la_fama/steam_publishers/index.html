@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+    <title>TOP PUBLISHERS</title>
+</head>
+
+<body>
+    <div id="container">
+        <div id="visPrincipal">
+            <button id="goBack">Go Back</button>
+            <button id="resetZoom">Reset Zoom</button>
+        </div>
+        <div id="visLateral">
+            <div id="vis1">
+                <div id="rule"></div>
+                <div id="box"></div>
+            </div>
+            <div id="vis2">
+                <div id="treeMapScore"></div>
+                <div id="treeMap"></div>
+            </div>
+        </div>
+        <div id ="CheckBoxBox"></div>
+    </div>
+    <script src="config.js"></script>
+    <script src="checkboxHandler.js"></script>
+    <script src="circularPacking.js"></script>
+    <script src="boxplot.js"></script>
+    <script src="treemap.js"></script>
+    <!-- <script src="parse.js"></script> -->
+</body>
+
+</html>

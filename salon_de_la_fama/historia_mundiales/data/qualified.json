@@ -1,0 +1,3378 @@
+{
+    "nombre": "Mundial",
+    "hijos": [
+        {
+            "nombre": "UEFA",
+            "hijos": [
+                {
+                    "nombre": "Germany",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Italy",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "England",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Spain",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "France",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Belgium",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Switzerland",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Sweden",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Netherlands",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Hungary",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Poland",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Yugoslavia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Scotland",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Czechoslovakia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Portugal",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Romania",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Soviet Union",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Austria",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Bulgaria",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Denmark",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Croatia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Russia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Northern Ireland",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Serbia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Norway",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Greece",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Republic of Ireland",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Slovenia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Turkey",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Wales",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Serbia and Montenegro",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Israel",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Czech Republic",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Iceland",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Bosnia and Herzegovina",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Ukraine",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Slovakia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "CONMEBOL",
+            "hijos": [
+                {
+                    "nombre": "Brazil",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Argentina",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "second-place",
+                            "value": 48,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Uruguay",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "champion",
+                            "value": 64,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Chile",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Paraguay",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Colombia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Peru",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "second group stage",
+                            "value": 12,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Ecuador",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Bolivia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "CAF",
+            "hijos": [
+                {
+                    "nombre": "Cameroon",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Morocco",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Nigeria",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Tunisia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Algeria",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Ghana",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Egypt",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Ivory Coast",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Senegal",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "South Africa",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Angola",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Togo",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Zaire",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "CONCACAF",
+            "hijos": [
+                {
+                    "nombre": "Mexico",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1958",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1962",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "United States",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1930",
+                            "ronda": "third-place",
+                            "value": 32,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1934",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1950",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Costa Rica",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Honduras",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Canada",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "El Salvador",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1970",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Cuba",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Haiti",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Jamaica",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Panama",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Trinidad and Tobago",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "AFC",
+            "hijos": [
+                {
+                    "nombre": "South Korea",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1954",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "fourth-place",
+                            "value": 24,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Japan",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Australia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1974",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Iran",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1978",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2014",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Saudi Arabia",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1994",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-1998",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2006",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2018",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "North Korea",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1966",
+                            "ronda": "quarter-finals",
+                            "value": 16,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "China",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2002",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Dutch East Indies",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1938",
+                            "ronda": "round of 16",
+                            "value": 8,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Iraq",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1986",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Kuwait",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Qatar",
+                    "hijos": [
+                        {
+                            "nombre": "WC-2022",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                },
+                {
+                    "nombre": "United Arab Emirates",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1990",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "OFC",
+            "hijos": [
+                {
+                    "nombre": "New Zealand",
+                    "hijos": [
+                        {
+                            "nombre": "WC-1982",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        },
+                        {
+                            "nombre": "WC-2010",
+                            "ronda": "group stage",
+                            "value": 4,
+                            "hijos": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

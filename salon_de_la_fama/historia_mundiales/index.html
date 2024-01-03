@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="visualizaciones.css" />
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <title>Proyecto</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="title">Historia de los Mundiales</h1>
+      <p class="paragraph"> Las siguientes visualizaciones resumen en gran parte la historia de las 22 ediciones la Copa Mundial de la FIFA, esperemos que las disfruten!</p>
+      <h2 class="title">Visualización 1 - Mapa de Rendimiento</h2>
+      <p class="paragraph"> Esta visualización se encarga de mostrar el rendimiento acumulado de los paises que han sido parte de esta competición, mientras más oscuro sea su color, es porque ha tenido un mejor rendimiento. Adicionalmente al hacer click sobre un país, se generará una segunda visualización. Finalmente, para quitar el filtro debes recargar la página.</p>
+      <div id="vis-1">
+        <svg id = "svg_mapa" width="1000" height="1000"></svg>
+      </div>
+
+      <h2 class="title">Visualización 2 - Clasificaciones Históricas</h2>
+      <p class="paragraph"> Esta visualización se encarga de mostrar el comportamiento histórico de la selección de fútbol escogida, en el eje x observamos las diferentes ocasiones del mundial y en el eje y observamos la fase alcanzada. Está visualización está coordinada con el mapa, por lo que para poder observarla debes en primer lugar seleccionar un país, adicionalmente tienes un filtro para seleccionar los años en los que te gustaría observar el comportamiento del país.</p>
+      <div id="selector_init">
+        <span class="paragraph">Año de Inicio:</span>
+        <select id="init">
+          <option value="1930" selected>-</option>
+          <option value="1930">1930</option>
+          <option value="1934">1934</option>
+          <option value="1938">1938</option>
+          <option value="1950">1950</option>
+          <option value="1954">1954</option>
+          <option value="1958">1958</option>
+          <option value="1962">1962</option>
+          <option value="1966">1966</option>
+          <option value="1970">1970</option>
+          <option value="1974">1974</option>
+          <option value="1978">1978</option>
+          <option value="1982">1982</option>
+          <option value="1986">1986</option>
+          <option value="1990">1990</option>
+          <option value="1994">1994</option>
+          <option value="1998">1998</option>
+          <option value="2002">2002</option>
+          <option value="2006">2006</option>
+          <option value="2010">2010</option>
+          <option value="2014">2014</option>
+          <option value="2018">2018</option>
+          <option value="2022">2022</option>
+        </select>
+      </div>
+      <div id="selector_finish">
+        <span class="paragraph">Año de Término:</span>
+        <select id="finished">
+          <option value="2022" selected>-</option>
+          <option value="1930">1930</option>
+          <option value="1934">1934</option>
+          <option value="1938">1938</option>
+          <option value="1950">1950</option>
+          <option value="1954">1954</option>
+          <option value="1958">1958</option>
+          <option value="1962">1962</option>
+          <option value="1966">1966</option>
+          <option value="1970">1970</option>
+          <option value="1974">1974</option>
+          <option value="1978">1978</option>
+          <option value="1982">1982</option>
+          <option value="1986">1986</option>
+          <option value="1990">1990</option>
+          <option value="1994">1994</option>
+          <option value="1998">1998</option>
+          <option value="2002">2002</option>
+          <option value="2006">2006</option>
+          <option value="2010">2010</option>
+          <option value="2014">2014</option>
+          <option value="2018">2018</option>
+          <option value="2022">2022</option>
+        </select>
+      </div>
+      <div id="vis-2">
+      </div>
+
+      <h2 class="title">Visualización 3 - Circle Packing</h2>
+      <p class="paragraph"> Esta visualización nos muestra las selecciones que más veces han participado en la competición. La circunferencia más grande representa la competición, luego los primeros círculos interiores representan las confederaciones, luego sus circunferencias interiores representan a los países, y dentro de los países tenemos sus participaciones, mientras más grande, mejor fue fase alcanzada en esa participación. Puedes ver más información al pasar el mouse sobre uno de estos círculos.</p>
+      <div id="vis-3"></div>
+      <div id="tooltip" style="position: absolute; opacity: 0;"></div>
+    </div>
+    <script src='./choroplet_map/choroplet_map.js' charset='utf-8'></script>
+    <script src='./line_chart/line_chart.js' charset='utf-8'></script>
+    <script src='./circle_packing/circle_packing.js' charset='utf-8'></script>
+  </body>
+</html>

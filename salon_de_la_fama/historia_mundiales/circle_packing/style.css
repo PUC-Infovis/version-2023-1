@@ -1,0 +1,13 @@
+.circle:hover {
+  stroke: black;
+  stroke-width: 4px;
+}
+
+#tooltip {
+  opacity: 1;
+  background-color: white;
+  border: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  padding: 5px;
+}

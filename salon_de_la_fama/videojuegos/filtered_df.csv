@@ -1,0 +1,144 @@
+,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
+153,Tekken 2,PS,1996.0,Fighting,Sony Computer Entertainment,2.26,1.89,1.36,0.23,5.74,89.0,8.0,8.9,102.0,Namco,T
+203,Resident Evil,PS,1996.0,Action,Virgin Interactive,2.05,1.16,1.11,0.73,5.05,91.0,8.0,9.0,266.0,Capcom,M
+65,Final Fantasy VII,PS,1997.0,Role-Playing,Sony Computer Entertainment,3.01,2.47,3.28,0.96,9.72,92.0,20.0,9.2,1282.0,SquareSoft,T
+52,Gran Turismo,PS,1997.0,Racing,Sony Computer Entertainment,4.02,3.87,2.54,0.52,10.95,96.0,16.0,8.7,138.0,Polyphony Digital,E
+146,Metal Gear Solid,PS,1998.0,Action,Konami Digital Entertainment,3.18,1.83,0.78,0.24,6.03,94.0,20.0,9.4,918.0,KCEJ,M
+106,Tekken 3,PS,1998.0,Fighting,Sony Computer Entertainment,3.27,2.22,1.4,0.29,7.16,96.0,15.0,9.1,367.0,Namco,T
+109,Crash Bandicoot 3: Warped,PS,1998.0,Platform,Sony Computer Entertainment,3.68,1.75,1.42,0.28,7.13,91.0,12.0,8.9,432.0,Naughty Dog,E
+151,Resident Evil 2,PS,1998.0,Action,Virgin Interactive,1.88,1.47,2.02,0.45,5.82,89.0,13.0,9.2,364.0,Capcom,M
+139,Driver,PS,1999.0,Action,GT Interactive,3.11,2.8,0.02,0.33,6.27,87.0,22.0,8.1,78.0,Reflections Interactive,T
+205,Tony Hawk's Pro Skater,PS,1999.0,Sports,Activision,3.42,1.38,0.02,0.2,5.02,92.0,18.0,9.2,69.0,Neversoft Entertainment,T
+88,Final Fantasy VIII,PS,1999.0,Role-Playing,SquareSoft,2.28,1.72,3.63,0.23,7.86,90.0,24.0,8.6,644.0,SquareSoft,T
+67,Gran Turismo 2,PS,1999.0,Racing,Sony Computer Entertainment,3.88,3.42,1.69,0.5,9.49,93.0,23.0,9.0,135.0,Polyphony Digital,T
+175,Final Fantasy IX,PS,2000.0,Role-Playing,SquareSoft,1.62,0.77,2.78,0.14,5.3,94.0,22.0,8.9,779.0,SquareSoft,T
+129,Halo: Combat Evolved,XB,2001.0,Shooter,Microsoft Game Studios,4.98,1.3,0.08,0.07,6.43,97.0,68.0,8.6,1283.0,Bungie Software,M
+84,Final Fantasy X,PS2,2001.0,Role-Playing,Sony Computer Entertainment,2.91,2.07,2.73,0.33,8.05,92.0,53.0,8.7,1056.0,SquareSoft,T
+144,Metal Gear Solid 2: Sons of Liberty,PS2,2001.0,Action,Konami Digital Entertainment,2.45,2.01,0.87,0.72,6.05,96.0,42.0,8.7,1026.0,KCEJ,M
+111,Super Smash Bros. Melee,GC,2001.0,Fighting,Nintendo,4.41,1.04,1.39,0.22,7.07,92.0,38.0,9.1,568.0,HAL Labs,T
+38,Grand Theft Auto III,PS2,2001.0,Action,Take-Two Interactive,6.99,4.51,0.3,1.3,13.1,97.0,56.0,8.5,664.0,DMA Design,M
+169,Crash Bandicoot: The Wrath of Cortex,PS2,2001.0,Platform,Universal Interactive,2.07,2.29,0.24,0.82,5.42,66.0,22.0,7.1,156.0,Traveller's Tales,E
+166,Mario Kart: Super Circuit,GBA,2001.0,Racing,Nintendo,2.62,1.64,0.99,0.23,5.47,93.0,24.0,8.3,108.0,Intelligent Systems,E
+28,Gran Turismo 3: A-Spec,PS2,2001.0,Racing,Sony Computer Entertainment,6.85,5.09,1.87,1.16,14.98,95.0,54.0,8.4,314.0,Polyphony Digital,E
+162,Super Mario Advance,GBA,2001.0,Platform,Nintendo,3.14,1.24,0.91,0.2,5.49,84.0,19.0,7.8,41.0,Nintendo,E
+114,Medal of Honor: Frontline,PS2,2002.0,Shooter,Electronic Arts,2.93,2.75,0.17,0.99,6.83,88.0,29.0,8.5,135.0,EA LA,T
+136,Super Mario Sunshine,GC,2002.0,Platform,Nintendo,4.01,1.26,0.87,0.17,6.31,92.0,61.0,8.6,439.0,Nintendo,E
+132,Kingdom Hearts,PS2,2002.0,Role-Playing,Sony Computer Entertainment,3.64,1.2,1.49,0.07,6.4,85.0,46.0,8.8,597.0,SquareSoft,E
+24,Grand Theft Auto: Vice City,PS2,2002.0,Action,Take-Two Interactive,8.41,5.49,0.47,1.78,16.15,95.0,62.0,8.7,730.0,Rockstar North,M
+102,Need for Speed Underground,PS2,2003.0,Racing,Electronic Arts,3.27,2.83,0.08,1.02,7.2,85.0,33.0,8.6,171.0,EA Black Box,E
+177,Final Fantasy X-2,PS2,2003.0,Role-Playing,Electronic Arts,1.92,1.08,2.11,0.17,5.29,85.0,45.0,6.6,400.0,SquareSoft,T
+193,Medal of Honor: Rising Sun,PS2,2003.0,Shooter,Electronic Arts,1.98,2.23,0.13,0.8,5.13,68.0,30.0,7.6,100.0,EA LA,T
+138,World of Warcraft,PC,2004.0,Role-Playing,Activision,0.08,6.21,0.0,0.0,6.29,93.0,57.0,7.3,2182.0,Blizzard Entertainment,T
+113,Need for Speed Underground 2,PS2,2004.0,Racing,Electronic Arts,2.71,3.02,0.08,1.09,6.9,82.0,39.0,8.6,132.0,EA Canada,E
+131,Pokémon Emerald Version,GBA,2004.0,Role-Playing,Nintendo,2.57,1.58,2.06,0.21,6.41,76.0,28.0,9.0,222.0,Game Freak,E
+48,Gran Turismo 4,PS2,2004.0,Racing,Sony Computer Entertainment,3.01,0.01,1.1,7.53,11.66,89.0,74.0,8.5,272.0,Polyphony Digital,E
+186,Dragon Quest VIII: Journey of the Cursed King,PS2,2004.0,Role-Playing,Square Enix,0.65,0.75,3.61,0.2,5.21,89.0,63.0,8.8,245.0,Level 5,T
+17,Grand Theft Auto: San Andreas,PS2,2004.0,Action,Take-Two Interactive,9.43,0.4,0.41,10.57,20.81,95.0,80.0,9.0,1588.0,Rockstar North,M
+78,Halo 2,XB,2004.0,Shooter,Microsoft Game Studios,6.82,1.53,0.05,0.08,8.49,95.0,91.0,8.2,1218.0,Bungie Software,M
+91,Grand Theft Auto: Liberty City Stories,PSP,2005.0,Action,Take-Two Interactive,2.9,2.81,0.24,1.73,7.69,88.0,65.0,7.6,451.0,Rockstar Leeds,M
+26,Brain Age 2: More Training in Minutes a Day,DS,2005.0,Puzzle,Nintendo,3.43,5.35,5.32,1.18,15.29,77.0,37.0,7.1,19.0,Nintendo,E
+43,Animal Crossing: Wild World,DS,2005.0,Simulation,Nintendo,2.5,3.45,5.33,0.86,12.13,86.0,57.0,8.7,242.0,Nintendo,E
+19,Brain Age: Train Your Brain in Minutes a Day,DS,2005.0,Misc,Nintendo,4.74,9.2,4.16,2.04,20.15,77.0,58.0,7.9,50.0,Nintendo,E
+11,Mario Kart DS,DS,2005.0,Racing,Nintendo,9.71,7.47,4.13,1.9,23.21,91.0,64.0,8.6,464.0,Nintendo,E
+123,Big Brain Academy,DS,2005.0,Misc,Nintendo,1.66,2.75,1.6,0.62,6.62,74.0,45.0,7.4,27.0,Nintendo,E
+204,Grand Theft Auto: Vice City Stories,PSP,2006.0,Action,Take-Two Interactive,1.7,1.99,0.16,1.18,5.03,86.0,50.0,8.0,150.0,Rockstar Leeds,M
+142,Gears of War,X360,2006.0,Shooter,Microsoft Game Studios,3.54,1.88,0.07,0.6,6.09,94.0,88.0,8.3,2295.0,Epic Games,M
+156,Cooking Mama,DS,2006.0,Simulation,505 Games,3.07,1.91,0.07,0.57,5.63,67.0,35.0,7.2,21.0,Taito Corporation,E
+148,Final Fantasy XII,PS2,2006.0,Role-Playing,Square Enix,1.88,0.0,2.33,1.74,5.95,92.0,64.0,7.6,972.0,Square Enix,T
+196,Guitar Hero II,PS2,2006.0,Misc,RedOctane,3.81,0.63,0.0,0.68,5.12,92.0,69.0,8.5,112.0,Harmonix Music Systems,T
+0,Wii Sports,Wii,2006.0,Sports,Nintendo,41.36,28.96,3.77,8.45,82.53,76.0,51.0,8.0,322.0,Nintendo,E
+107,The Legend of Zelda: Twilight Princess,Wii,2006.0,Action,Nintendo,3.74,2.14,0.6,0.68,7.15,95.0,73.0,9.0,1658.0,Nintendo,T
+6,New Super Mario Bros.,DS,2006.0,Platform,Nintendo,11.28,9.14,6.5,2.88,29.8,89.0,65.0,8.5,431.0,Nintendo,E
+7,Wii Play,Wii,2006.0,Misc,Nintendo,13.96,9.18,2.93,2.84,28.92,58.0,41.0,6.6,129.0,Nintendo,E
+74,Mario Party DS,DS,2007.0,Misc,Nintendo,4.4,1.85,1.98,0.68,8.91,72.0,27.0,7.8,85.0,Hudson Soft,E
+120,Call of Duty 4: Modern Warfare,PS3,2007.0,Shooter,Activision,3.11,2.26,0.28,1.03,6.68,94.0,44.0,8.4,993.0,Infinity Ward,M
+200,The Legend of Zelda: Phantom Hourglass,DS,2007.0,Action,Nintendo,1.85,1.8,0.95,0.48,5.08,90.0,57.0,8.0,416.0,Nintendo,E
+188,Professor Layton and the Curious Village,DS,2007.0,Puzzle,Nintendo,1.21,2.43,1.03,0.52,5.19,85.0,72.0,8.6,147.0,Level 5,E
+80,Mario Party 8,Wii,2007.0,Misc,Nintendo,3.74,2.24,1.58,0.7,8.27,62.0,41.0,6.3,190.0,Hudson,E
+13,Wii Fit,Wii,2007.0,Sports,Nintendo,8.92,8.03,3.6,2.15,22.7,80.0,63.0,7.7,146.0,Nintendo,E
+49,Super Mario Galaxy,Wii,2007.0,Platform,Nintendo,6.06,3.35,1.2,0.74,11.35,97.0,73.0,8.9,2147.0,Nintendo,E
+160,Assassin's Creed,X360,2007.0,Adventure,Ubisoft,3.28,1.64,0.07,0.56,5.54,81.0,77.0,7.7,1074.0,Ubisoft Montreal,M
+155,LEGO Star Wars: The Complete Saga,Wii,2007.0,Action,LucasArts,3.57,1.55,0.0,0.51,5.64,80.0,17.0,8.9,62.0,Traveller's Tales,E10+
+44,Halo 3,X360,2007.0,Shooter,Microsoft Game Studios,7.97,2.81,0.13,1.21,12.12,94.0,86.0,7.8,4100.0,"Bungie Software, Bungie",M
+70,Call of Duty 4: Modern Warfare,X360,2007.0,Shooter,Activision,5.93,2.36,0.13,0.9,9.31,94.0,70.0,8.4,1320.0,Infinity Ward,M
+51,Grand Theft Auto IV,X360,2008.0,Action,Take-Two Interactive,6.76,3.07,0.14,1.03,11.01,98.0,86.0,7.9,2951.0,Rockstar North,M
+163,Monster Hunter Freedom Unite,PSP,2008.0,Role-Playing,Capcom,0.47,0.55,4.13,0.34,5.48,81.0,48.0,8.7,124.0,Capcom,T
+150,LittleBigPlanet,PS3,2008.0,Platform,Sony Computer Entertainment,2.8,1.98,0.17,0.87,5.82,95.0,85.0,6.8,5311.0,"SCE/WWS, Media Molecule",E
+117,Gears of War 2,X360,2008.0,Shooter,Microsoft Game Studios,4.15,1.9,0.06,0.64,6.75,93.0,90.0,7.7,2739.0,Epic Games,M
+170,Call of Duty: World at War,PS3,2008.0,Shooter,Activision,2.73,1.83,0.0,0.83,5.39,85.0,45.0,7.6,409.0,Treyarch,M
+2,Mario Kart Wii,Wii,2008.0,Racing,Nintendo,15.68,12.76,3.79,3.29,35.52,82.0,73.0,8.3,709.0,Nintendo,E
+147,Metal Gear Solid 4: Guns of the Patriots,PS3,2008.0,Action,Konami Digital Entertainment,2.63,1.71,0.83,0.82,5.99,94.0,82.0,8.7,3558.0,Kojima Productions,M
+57,Grand Theft Auto IV,PS3,2008.0,Action,Take-Two Interactive,4.76,3.69,0.44,1.61,10.5,98.0,64.0,7.5,2833.0,Rockstar North,M
+39,Super Smash Bros. Brawl,Wii,2008.0,Fighting,Nintendo,6.62,2.55,2.66,1.01,12.84,93.0,81.0,8.9,1662.0,Game Arts,T
+100,Call of Duty: World at War,X360,2008.0,Shooter,Activision,4.81,1.88,0.0,0.69,7.38,84.0,84.0,7.6,580.0,Treyarch,M
+90,Pokémon Platinum Version,DS,2008.0,Role-Playing,Nintendo,2.76,1.72,2.69,0.54,7.72,83.0,46.0,8.5,203.0,Game Freak,E
+15,Wii Fit Plus,Wii,2009.0,Sports,Nintendo,9.01,8.49,2.53,1.77,21.79,80.0,33.0,7.4,52.0,Nintendo,E
+8,New Super Mario Bros. Wii,Wii,2009.0,Platform,Nintendo,14.44,6.94,4.7,2.24,28.32,87.0,80.0,8.4,594.0,Nintendo,E
+152,Dragon Quest IX: Sentinels of the Starry Skies,DS,2009.0,Role-Playing,Nintendo,0.63,0.67,4.35,0.15,5.78,87.0,65.0,8.8,197.0,Level 5,E10+
+3,Wii Sports Resort,Wii,2009.0,Sports,Nintendo,15.61,10.93,3.28,2.95,32.77,80.0,73.0,8.0,192.0,Nintendo,E
+121,Uncharted 2: Among Thieves,PS3,2009.0,Action,Sony Computer Entertainment,3.27,2.2,0.21,0.98,6.66,96.0,105.0,8.8,5187.0,Naughty Dog,T
+103,Just Dance,Wii,2009.0,Misc,Ubisoft,3.48,2.99,0.0,0.73,7.2,49.0,21.0,8.0,110.0,Ubisoft Paris,E10+
+173,Final Fantasy XIII,PS3,2009.0,Role-Playing,Square Enix,1.74,1.21,1.87,0.51,5.33,83.0,83.0,7.3,2483.0,Square Enix,T
+159,Assassin's Creed II,PS3,2009.0,Action,Ubisoft,2.54,1.93,0.21,0.86,5.55,91.0,70.0,8.6,1202.0,Ubisoft Montreal,M
+199,Resident Evil 5,PS3,2009.0,Action,Capcom,1.96,1.41,1.08,0.64,5.09,84.0,76.0,7.5,667.0,Capcom,M
+161,Forza Motorsport 3,X360,2009.0,Racing,Microsoft Game Studios,2.99,1.9,0.1,0.5,5.49,92.0,90.0,8.0,516.0,Turn 10,E
+55,Call of Duty: Modern Warfare 2,PS3,2009.0,Shooter,Activision,4.99,3.64,0.38,1.6,10.6,94.0,67.0,6.3,2073.0,Infinity Ward,M
+85,The Sims 3,PC,2009.0,Simulation,Electronic Arts,0.99,6.42,0.0,0.6,8.01,86.0,75.0,7.6,886.0,The Sims Studio,T
+134,Halo 3: ODST,X360,2009.0,Shooter,Microsoft Game Studios,4.34,1.34,0.06,0.61,6.34,83.0,94.0,7.1,1163.0,"Bungie Software, Bungie",M
+181,Assassin's Creed II,X360,2009.0,Action,Ubisoft,3.11,1.55,0.08,0.51,5.26,90.0,82.0,8.8,1305.0,Ubisoft Montreal,M
+36,Call of Duty: Modern Warfare 2,X360,2009.0,Shooter,Activision,8.52,3.59,0.08,1.28,13.47,94.0,100.0,6.3,2698.0,Infinity Ward,M
+79,Wii Party,Wii,2010.0,Misc,Nintendo,1.75,3.47,2.49,0.67,8.38,68.0,42.0,7.4,54.0,Nd Cube,E
+64,Halo: Reach,X360,2010.0,Shooter,Microsoft Game Studios,7.04,1.95,0.08,0.79,9.86,91.0,99.0,7.9,2045.0,Bungie,M
+141,Kinect Sports,X360,2010.0,Sports,Microsoft Game Studios,3.92,1.73,0.03,0.51,6.19,73.0,51.0,7.4,95.0,Rare Ltd.,E10+
+14,Kinect Adventures!,X360,2010.0,Misc,Microsoft Game Studios,15.0,4.89,0.24,1.69,21.81,61.0,45.0,6.3,106.0,Good Science Studio,E
+68,Just Dance 2,Wii,2010.0,Misc,Ubisoft,5.8,2.85,0.01,0.78,9.44,74.0,24.0,7.3,24.0,Ubisoft,E10+
+97,Super Mario Galaxy 2,Wii,2010.0,Platform,Nintendo,3.56,2.35,0.98,0.62,7.51,97.0,87.0,9.1,1854.0,Nintendo EAD Tokyo,E
+32,Call of Duty: Black Ops,X360,2010.0,Shooter,Activision,9.7,3.68,0.11,1.13,14.61,87.0,89.0,6.3,1454.0,Treyarch,M
+41,Call of Duty: Black Ops,PS3,2010.0,Shooter,Activision,5.99,4.37,0.48,1.79,12.63,88.0,58.0,6.4,1094.0,Treyarch,M
+135,Red Dead Redemption,X360,2010.0,Action,Take-Two Interactive,3.7,1.95,0.09,0.58,6.32,95.0,96.0,9.0,2316.0,Rockstar San Diego,M
+202,FIFA Soccer 11,PS3,2010.0,Sports,Electronic Arts,0.61,3.28,0.06,1.12,5.07,89.0,51.0,8.0,233.0,EA Sports,E
+54,Gran Turismo 5,PS3,2010.0,Racing,Sony Computer Entertainment,2.96,4.82,0.81,2.11,10.7,84.0,82.0,7.5,1112.0,Polyphony Digital,E
+197,Fable III,X360,2010.0,Role-Playing,Microsoft Game Studios,3.59,1.08,0.05,0.38,5.1,80.0,88.0,6.5,604.0,Lionhead Studios,M
+128,Donkey Kong Country Returns,Wii,2010.0,Platform,Nintendo,3.17,1.79,1.03,0.46,6.44,87.0,77.0,8.6,368.0,Retro Studios,E
+125,Red Dead Redemption,PS3,2010.0,Action,Take-Two Interactive,2.79,2.53,0.17,0.99,6.49,95.0,73.0,8.8,2456.0,Rockstar San Diego,M
+75,The Elder Scrolls V: Skyrim,X360,2011.0,Role-Playing,Bethesda Softworks,5.05,2.79,0.1,0.85,8.79,96.0,89.0,8.4,3589.0,Bethesda Game Studios,M
+53,Super Mario 3D Land,3DS,2011.0,Platform,Nintendo,4.89,3.0,2.14,0.78,10.81,90.0,82.0,8.4,921.0,Nintendo,E
+104,Battlefield 3,PS3,2011.0,Shooter,Electronic Arts,2.85,2.89,0.35,1.08,7.17,85.0,38.0,7.5,1761.0,EA DICE,M
+118,Uncharted 3: Drake's Deception,PS3,2011.0,Action,Sony Computer Entertainment,2.77,2.75,0.19,1.03,6.74,92.0,97.0,8.3,3712.0,Naughty Dog,T
+29,Call of Duty: Modern Warfare 3,X360,2011.0,Shooter,Activision,9.04,4.24,0.13,1.32,14.73,88.0,81.0,3.4,8713.0,"Infinity Ward, Sledgehammer Games",M
+61,Just Dance 3,Wii,2011.0,Misc,Ubisoft,5.95,3.11,0.0,1.06,10.12,74.0,15.0,7.8,16.0,Ubisoft,E10+
+164,Batman: Arkham City,PS3,2011.0,Action,Warner Bros. Interactive Entertainment,2.71,1.85,0.11,0.81,5.48,96.0,42.0,8.6,2162.0,Rocksteady Studios,T
+101,Battlefield 3,X360,2011.0,Shooter,Electronic Arts,4.46,2.11,0.06,0.69,7.32,84.0,57.0,7.4,2142.0,EA DICE,M
+130,The Elder Scrolls V: Skyrim,PS3,2011.0,Role-Playing,Bethesda Softworks,2.55,2.6,0.25,1.0,6.41,92.0,16.0,6.4,2527.0,Bethesda Game Studios,M
+37,Call of Duty: Modern Warfare 3,PS3,2011.0,Shooter,Activision,5.54,5.73,0.49,1.57,13.32,88.0,39.0,3.2,5234.0,"Infinity Ward, Sledgehammer Games",M
+140,Gears of War 3,X360,2011.0,Shooter,Microsoft Game Studios,4.05,1.59,0.07,0.5,6.21,91.0,96.0,7.8,1504.0,Epic Games,M
+40,Mario Kart 7,3DS,2011.0,Racing,Nintendo,5.03,4.02,2.69,0.91,12.66,85.0,73.0,8.2,632.0,"Retro Studios, Entertainment Analysis & Development Division",E
+176,Assassin's Creed III,X360,2012.0,Action,Ubisoft,3.13,1.69,0.03,0.44,5.29,84.0,61.0,6.7,1196.0,Ubisoft,M
+185,New Super Mario Bros. U,WiiU,2012.0,Platform,Nintendo,2.3,1.34,1.27,0.32,5.22,84.0,70.0,8.1,733.0,Nintendo,E
+81,FIFA Soccer 13,PS3,2012.0,Action,Electronic Arts,1.06,5.01,0.13,1.97,8.16,88.0,37.0,6.6,348.0,Electronic Arts,E
+190,FIFA Soccer 13,X360,2012.0,Action,Electronic Arts,1.09,3.47,0.03,0.57,5.16,90.0,48.0,6.1,403.0,Electronic Arts,E
+192,Diablo III,PC,2012.0,Role-Playing,Activision,2.44,2.16,0.0,0.54,5.14,88.0,86.0,4.0,9629.0,Blizzard Entertainment,M
+73,Animal Crossing: New Leaf,3DS,2012.0,Simulation,Nintendo,2.03,2.36,4.39,0.39,9.16,88.0,70.0,8.7,626.0,Nintendo,E
+66,Halo 4,X360,2012.0,Shooter,Microsoft Game Studios,6.65,2.28,0.04,0.74,9.71,87.0,87.0,7.0,3260.0,343 Industries,M
+116,Just Dance 4,Wii,2012.0,Misc,Ubisoft,4.05,2.16,0.0,0.55,6.76,74.0,10.0,7.3,28.0,Ubisoft,E10+
+62,New Super Mario Bros. 2,3DS,2012.0,Platform,Nintendo,3.66,3.14,2.47,0.63,9.9,78.0,70.0,7.2,424.0,Nintendo,E
+127,Assassin's Creed III,PS3,2012.0,Action,Ubisoft,2.64,2.52,0.16,1.12,6.45,85.0,41.0,6.9,1307.0,Ubisoft,M
+35,Call of Duty: Black Ops II,X360,2012.0,Shooter,Activision,8.25,4.24,0.07,1.12,13.67,83.0,73.0,4.8,2256.0,Treyarch,M
+34,Call of Duty: Black Ops II,PS3,2012.0,Shooter,Activision,4.99,5.73,0.65,2.42,13.79,83.0,21.0,5.3,922.0,Treyarch,M
+126,FIFA 14,PS3,2013.0,Sports,Electronic Arts,0.78,4.24,0.07,1.37,6.47,86.0,37.0,4.3,576.0,EA Canada,E
+69,Call of Duty: Ghosts,PS3,2013.0,Shooter,Activision,4.1,3.63,0.38,1.25,9.36,71.0,10.0,2.6,1047.0,Infinity Ward,M
+60,Call of Duty: Ghosts,X360,2013.0,Shooter,Activision,6.73,2.56,0.04,0.91,10.25,73.0,29.0,2.6,2117.0,Infinity Ward,M
+149,The Last of Us,PS3,2013.0,Action,Sony Computer Entertainment Europe,2.41,2.18,0.28,0.99,5.87,95.0,98.0,9.1,8003.0,Naughty Dog,M
+23,Grand Theft Auto V,X360,2013.0,Action,Take-Two Interactive,9.66,5.14,0.06,1.41,16.27,97.0,58.0,8.1,3711.0,Rockstar North,M
+16,Grand Theft Auto V,PS3,2013.0,Action,Take-Two Interactive,7.02,9.09,0.98,3.96,21.04,97.0,50.0,8.2,3994.0,Rockstar North,M
+165,Grand Theft Auto V,XOne,2014.0,Action,Take-Two Interactive,2.81,2.19,0.0,0.47,5.48,97.0,14.0,7.9,764.0,Rockstar North,M
+42,Grand Theft Auto V,PS4,2014.0,Action,Take-Two Interactive,3.96,6.31,0.38,1.97,12.61,97.0,66.0,8.3,2899.0,Rockstar North,M
+92,Call of Duty: Advanced Warfare,PS4,2014.0,Shooter,Activision,2.81,3.48,0.14,1.23,7.66,83.0,39.0,5.7,1443.0,Sledgehammer Games,M
+154,Destiny,PS4,2014.0,Shooter,Activision,2.49,2.07,0.16,0.92,5.64,76.0,95.0,6.1,5380.0,"Bungie Software, Bungie",T
+110,Mario Kart 8,WiiU,2014.0,Racing,Nintendo,3.15,2.15,1.28,0.51,7.09,88.0,82.0,9.1,1599.0,Nintendo,E
+179,Call of Duty: Advanced Warfare,XOne,2014.0,Shooter,Activision,3.22,1.55,0.01,0.48,5.27,81.0,53.0,5.4,898.0,Sledgehammer Games,M
+143,FIFA 15,PS4,2014.0,Sports,Electronic Arts,0.8,4.33,0.05,0.9,6.08,82.0,47.0,5.7,988.0,EA Sports,E
+77,FIFA 16,PS4,2015.0,Sports,Electronic Arts,1.12,6.12,0.06,1.28,8.57,82.0,42.0,4.3,896.0,EA Sports,E
+105,Fallout 4,PS4,2015.0,Role-Playing,Bethesda Softworks,2.53,3.27,0.24,1.13,7.16,87.0,58.0,6.5,4228.0,Bethesda Game Studios,M
+94,FIFA 17,PS4,2016.0,Sports,Electronic Arts,0.66,5.75,0.08,1.11,7.59,85.0,41.0,5.0,398.0,"EA Sports, EA Vancouver",E
+171,Uncharted 4: A Thief's End,PS4,2016.0,Shooter,Sony Computer Entertainment,1.85,2.5,0.19,0.85,5.38,93.0,113.0,7.9,7064.0,Naughty Dog,T

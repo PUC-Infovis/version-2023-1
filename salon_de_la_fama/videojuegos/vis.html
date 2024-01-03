@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Visualizacion</title>
+        <link rel="stylesheet" href="vis_style.css">
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+    </head>
+    <body>
+        <p>
+            
+        </p>
+        <div class="flex-vertical"></div>
+        <br>
+        <br>
+        Esta página web permite visualizar diferentes estadísticas de Videojuegos
+        para saber de que manera afectan los mercados, las consolas y el rating en diversas
+        métricas de los juegos. Tres distintas visualizaciones permiten apreciar además la apliación
+        de diversos gráficos de la librería D3 de Javascript.
+        <br>
+        <br>
+        <h1>Puntaje de Videojuegos por Consoloa</h1>
+        <p>El gráfico de caja, el cual se puede visualizar con diferentes consolas, permite ver la distribución de los puntajes que
+            reciben los juegos. Los límites de la cajas son los primer y tercer cuartiles, la línea horizontal representa la mediana y
+            los limites de la línea vertical muestran los puntajes mínimos y máximos.
+        </p>
+            <div class="flex-horizontal">   
+                <div class="flex-vertical">
+                    <button id="boton">Limpiar Visualización</button>
+                    <select id="seleccion"></select>
+                </div>
+                <svg id="vis-1"></svg>
+                <script src="vis1.js"></script>
+            </div>
+            <br>
+            <br>
+            <br>
+            <h1>
+                Ventas de Publisher por Region
+            </h1>
+            <p>El tamaño de los cuadrados indica sus ventas totales a los largo de los años, y apretar
+                el ícono de dinero permite ver como se distribuyen las ventas en distintas regiones del mundo.
+            </p>
+            <br>
+            <div class="flex-horizontal">   
+                <div class="flex-vertical">
+                    
+                </div>
+                <svg id="vis-2"></svg>
+                
+                <script src="vis2.js"></script>
+            </div>
+            <div class="flex-horizontal">   
+            <svg id="vis-3"></svg>  
+            <div class="legend">
+                <div class="box leyendNA"></div><h3>NA Sales</h3>
+                <div class="box leyendEU"></div><h3>EU Sales</h3>
+                <div class="box leyendJP"></div><h3>JP Sales</h3>
+                <div class="box leyendOther"></div> <h3>Other Sales</h3>
+            </div>
+            <script src="vis3.js"></script>
+            </div>
+            <br>
+            <br>
+            <br>
+            <h1>
+                Venta de Juegos por Rating a lo largo de los Años
+            </h1>
+            <p>Este grafico permite ver las ventas de videojuegos según su Rating a lo largo de los años. Adicionalmente,
+                al seleccionar un Rating en particular, se puede pasar sobre el punto de un juego para ver sus características.
+            </p>
+            <br>
+            <div class="flex-horizontal">   
+                <div class="flex-vertical">
+                    <select id="seleccion2"></select>
+                </div>
+                <svg id="vis-4"></svg>
+                <script src="vis4.js"></script>
+            </div>
+        </div>
+    </body>
+</html>

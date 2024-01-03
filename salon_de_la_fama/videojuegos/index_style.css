@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    
+  }
+  
+.quote {
+    font-family: Arial, sans-serif;
+    font-family: 'Press Start 2P', Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+
+  }

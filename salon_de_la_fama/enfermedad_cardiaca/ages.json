@@ -1,0 +1,18 @@
+{
+  "name": "Age Ranges",
+  "children": [
+    { "name": "80 or older", "value": 5201 },
+    { "name": "70-74", "value": 4671 },
+    { "name": "65-69", "value": 3917 },
+    { "name": "75-79", "value": 3898 },
+    { "name": "60-64", "value": 3134 },
+    { "name": "55-59", "value": 2078 },
+    { "name": "50-54", "value": 1279 },
+    { "name": "45-49", "value": 672 },
+    { "name": "40-44", "value": 439 },
+    { "name": "35-39", "value": 277 },
+    { "name": "30-34", "value": 212 },
+    { "name": "25-29", "value": 124 },
+    { "name": "<24", "value": 116 }
+  ]
+}

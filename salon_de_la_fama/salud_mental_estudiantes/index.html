@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <title>Proyecto</title>
+</head>
+
+<body>
+    <div class="container">
+
+        <h1> ¿Cómo nos sentimos?</h1>
+
+        <h3> Las siguientes visualizaciones sirven para darse cuenta de cómo lo están pasando los
+            alumnos universitarios. Te invitamos a hacer click en tu carrera!!
+        </h3>
+       
+        <div id="vis-3">
+            <div>
+                <span>Seleciona un trastorno de salud mental</span>
+                <select id="options3">
+                    <option value="default" selected>Cualquiera</option>
+                    <option value="depression">Depresión</option>
+                    <option value="anxiety">Ansiedad</option>
+                    <option value="panic">Ataques de pánico</option>
+                </select>
+            </div>
+        </div>
+
+        <h3>
+            A continuación se observa cómo afecta el paso de los años en tu carrera ... ¿En qué año
+            vas?
+        </h3>
+
+        <div id="vis-2">
+            <div>
+                <span>Carrera</span>
+                <select id="options2">
+                    <option value="default" selected>Cualquiera</option>
+                    <option value="Engineering">Engineering</option>
+                    <option value="Islamic Education">Islamic Education</option>
+                    <option value="BIT">BIT</option>
+                    <option value="Business & Economics">Business & Economics</option>
+                    <option value="BCS">BCS</option>
+                    <option value="Human Sciences">Human Sciences</option>
+                    <option value="Biomedical Sciences">Biomedical Sciences</option>
+                    <option value="Health Care">Health Care</option>
+                </select>
+            </div>
+        </div>
+
+        <h3> Para terminar, podrás observar la cantidad de trastornos de salud mental en la carrera
+            elegida según tu género. Te invitamos a seleccionar el tuyo :)
+        </h3>
+
+        <div id="vis-1">
+        </div>
+
+    
+        <h3> Mira a tu alrededor, no estás solo/a :) </h3>
+
+        <footer>
+            <p>Autores: Vicente Cruz, Manuel Gana</p>
+            <p>Fuente: https://www.kaggle.com/datasets/shariful07/student-mental-health </p>
+        </footer>
+        
+
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>

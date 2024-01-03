@@ -1,0 +1,37 @@
+body {
+    margin: 0 auto;
+    /* Puedes cambiar el color de fondo (background-color) si lo deseas */
+    background-color: #f2f2f2;
+    max-width: 1200px;
+    min-width: 500px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.paragraph{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.total-container{
+    max-width: 1200px;
+    min-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#tooltip {
+    opacity: 1;
+    background-color: white;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 5px;
+  }

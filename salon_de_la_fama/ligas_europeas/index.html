@@ -1,0 +1,111 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <title>Visualización</title>
+</head>
+<body>
+    <br><br>
+    <h4>El siguiente selector afecta a las 3 visualizaciones</h4>
+    <div class="selector">
+        <span>Escoge una liga: </span>
+        <select id="league-filter" class="filter">
+            <option value="Premier League" selected>Premier League</option>
+            <option value="Bundesliga">Bundesliga</option>
+            <option value="Eredivisie">Eredivisie</option>
+            <option value="Ligue 1">Ligue 1</option>
+            <option value="Primera Division">La Liga</option>
+            <option value="Primeira Liga">Liga Portugal</option>
+            <option value="Serie A">Serie A</option>
+        </select>
+    </div>
+    <br><br>
+    <h1>Distribuciones de goles para cada fecha de liga</h1>
+    <p>Cada diagrama de caja y bigote representa una fecha del campeonato, o número del partido
+        para cada equipo en la liga seleccionada. En el eje X se encuentra la fecha en orden cronológico,
+        mientras que la altura en el eje Y representa la cantidad de goles asociada a cada estadística.
+        La mediana es de color rojo, las cajas representan del primer al tercer cuartil, y las líneas 
+        verticales representan el máximo y el mínimo. Adicionalmente, se puede seleccionar varias fechas
+        con brushing, y se destacarán éstas y ocultará el resto.
+    </p>
+    <p>
+        Se puede alterar los datos que se muestran cambiando la liga seleccionada, el equipo que anotó los goles, y el
+        tiempo del partido en que se anotaron los goles.
+    </p>
+    <br>
+    <div class="selector">
+        <span>Goles anotados por: </span>
+        <select id="score-team-filter-vis-1" class="filter">
+            <option value="Both" selected>Ambos equipos</option>
+            <option value="Home Team">Equipo Local</option>
+            <option value="Away Team">Equipo Visitante</option>
+        </select>
+    </div>
+    <div class="selector">
+        <span>Goles anotados en: </span>
+        <select id="score-time-filter-vis-1" class="filter">
+            <option value="Full Time" selected>Tiempo Completo</option>
+            <option value="First Half">Primer Tiempo</option>
+            <option value="Second Half">Segundo Tiempo</option>
+        </select>
+    </div>
+    <div id="vis_1"> 
+    </div>
+
+    <h1>Resultados de cada equipo y comparación rendimiento esperado </h1>
+    <p>Esta visualización muestra para todos los equipos de una liga, un gráfico radial con sus resultados en cada mitad del partido
+        y al tiempo completo, junto con sus "resultados esperados", que se refieren al promedio de estos resultados para sus 5 partidos
+        anteriores. Al hacer click en un gráfico radial, se muestran más detalles, como los valores numéricos explícitos.
+        Al apretar restablecer, se volverá a la vista generalizada de todos los equipos y sus partidos asociados a la fecha del campeonato.
+    </p>
+    <p>
+        Se puede alterar los datos que se muestran cambiando la liga seleccionada y la fecha del campeonato.
+    </p>
+    <div class="selector">
+        <span>Escoge una fecha: </span>
+        <select id="matchday-filter" class="filter">
+        </select>
+    </div>
+    <button type="button" id="reset-button" class="button">Reestablecer</button>
+    <div id="vis_2"> 
+    </div>
+
+    <h1>Resultados de partidos</h1>
+    <p>Esta visualización muestra una tabla resumen de todos los resultados de partidos de una liga. 
+        En el eje X se muestra la fecha del campeonato en orden cronológico, mientras que el eje Y contiene los distintos equipos.
+        Cada celda de la tabla contiene el resultado del partido para el equipo correspondiente en la fecha correspondiente.
+        Las victorias se muestran como verdes, las derrotas como rojo, y los empates como gris. 
+    </p>
+    <p>
+        Se puede alterar los datos que se muestran cambiando la liga seleccionada y el tipo de resultado a visualizar.
+    </p>
+    
+    <!-- Esto define el relleno de los partidos 35 a 38 en las ligas que tienen solo 34 partidos -->
+    <svg viewBox="0 0 80 1" color="grey">
+        <defs>
+            <pattern id="diagonalHatch" patternUnits="userSpaceOnUse" width="4" height="4">
+                <path d="M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2" style="stroke:currentColor; stroke-width:1"></path>
+            </pattern>
+        </defs>
+    </svg>
+    <br>
+    <div class="selector">
+        <span>Resultados a mostrar: </span>
+        <select id="result-filter" class="filter">
+            <option value="All" selected>Todos</option>
+            <option value="Wins">Victorias</option>
+            <option value="Draws">Empates</option>
+            <option value="Losses">Derrotas</option>
+        </select>
+    </div>
+    <div id="vis_3"> 
+    </div>
+    <script src="javascript/parent_vis.mjs" type="module"></script>
+    <script src="javascript/first_vis.mjs" type="module"></script>
+    <script src="javascript/second_vis.mjs" type="module"></script>
+    <script src="javascript/third_vis.mjs" type="module"></script>
+</body>
+</html>

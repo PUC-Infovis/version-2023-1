@@ -1,0 +1,342 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Caprasimo&family=EB+Garamond:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Kanit:wght@300;400;500;600;700;800;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+html, body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+section {
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#primera-seccion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  padding-bottom: 5%;
+}
+
+.boton-empezar {
+  width: 40%;
+  padding: 20px;
+}
+
+#primera-seccion button {
+  font-family: "Agdasima", sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  width: 100%;
+  height: 100%;
+  background-color: #F2B01F;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 0px;
+}
+
+.boton-seguir {
+  width: 20%;
+  padding: 20px;
+  padding-top: 0%;
+  margin-top: -0%;
+  margin-bottom: 60px;
+}
+
+#segunda-seccion {
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 20px;
+  padding-bottom: 0%;
+}
+
+#boton-seguir-mitad {
+  font-family: "Agdasima", sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  width: 100%;
+  height: 100%;
+  background-color: #F2B01F;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 0px;
+}
+
+#tercera-seccion {
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 20px;
+  padding-top: 3%;
+  margin-top: 100px;
+}
+
+.container {
+  font-family: "IBM Plex Sans", sans-serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: auto;
+  padding: 20px;
+  margin-left: 0px;
+  margin-right: 2%;
+  margin-bottom: 0px;
+  margin-top: 4%;
+  /* border: 3px solid black;
+  border-radius: 20px; */
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.dropdown select {
+  margin-right: 20px;
+  padding: 5px 20px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  cursor: pointer;
+}
+
+.dropdown select:focus {
+  outline: none;
+}
+
+.primera-segunda-vis {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: white;
+  border: 0.5px solid gray;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.welcome {
+  font-family: 'EB Garamond', serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  margin: auto;
+  padding: 20px;
+}
+
+.welcome-text h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+/* .welcome-text h3 {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.5rem;
+} */
+
+
+
+.welcome-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: justify;
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+  margin-top: 0px;
+}
+
+.welcome-image {
+  display: flex;
+  justify-content: center;
+  max-width: 40%;
+  margin-top: 20px;
+}
+
+.welcome-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 2%;
+  margin: 10px;
+  margin-left: 80px;
+  transition: all 0.3s ease;
+}
+
+.boton {
+  font-family: "Agdasima", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  width: 150px;
+  height: 50px;
+  background-color: #A7C7E7;
+  cursor: pointer;
+}
+
+.mapa-botones {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 20px;
+  margin-top: -3px;
+  margin-bottom: 0px;
+}
+
+.botones-estadisticas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 20px;
+}
+
+
+.select {
+  font-family: "Agdasima", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  width: 150px;
+  height: 40px;
+  background-color: #F2B01F;
+}
+
+
+.stats-container {
+  margin-top: 20px;
+}
+
+.tercera-vis {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 20px;
+  margin-top: 0px;
+  border-radius: 20px;
+  border: 3px solid black;
+}
+.tercera-vis h1 {
+  font-family: 'EB Garamond', serif;
+  font-size: 2.5rem;
+}
+
+.tercera-vis-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-left: 20px;
+}
+
+.botones-multiline {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.boton2 {
+  font-family: "Agdasima", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  width: 230px;
+  height: 80px;
+  background-color: #A7C7E7;
+  border-radius: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+path:hover {
+  cursor: pointer;
+}
+
+#titulo-grafico-multi {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+#y-axis-label-multi {
+  font-family: 'Kanit', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+#x-axis-label-multi {
+  font-family: 'Kanit', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.botones-mensaje {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 20px;
+}
+
+#contenedor-eje-x {
+  font-family: 'Kanit', sans-serif;
+}
+
+#contenedor-eje-y text {
+  font-family: 'Kanit', sans-serif;
+}
+
+#titulo-grafico {
+  font-family: 'Kanit', sans-serif;
+}
+
+#titulo-eje {
+  font-family: 'Kanit', sans-serif;
+}
+
+#x-axis-multi {
+  font-family: 'Kanit', sans-serif;
+}
+
+#y-axis-multi {
+  font-family: 'Kanit', sans-serif;
+}

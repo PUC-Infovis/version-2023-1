@@ -1,0 +1,334 @@
+[
+    {
+        "pais": "Algeria",
+        "color": "#006233"
+    },
+    {
+        "pais": "Serbia",
+        "color": "#ee1c23"
+    },
+    {
+        "pais": "Scotland",
+        "color": "#000060"
+    },
+    {
+        "pais": "Saudi Arabia",
+        "color": "#008000"
+    },
+    {
+        "pais": "Russia",
+        "color": "#d52b1e"
+    },
+    {
+        "pais": "Romania",
+        "color": "#ff0000"
+    },
+    {
+        "pais": "Republic of Ireland",
+        "color": "#008000"
+    },
+    {
+        "pais": "Qatar",
+        "color": "#8c1529"
+    },
+    {
+        "pais": "Portugal",
+        "color": "#e00000"
+    },
+    {
+        "pais": "Poland",
+        "color": "#dc143c"
+    },
+    {
+        "pais": "Peru",
+        "color": "#ff0000"
+    },
+    {
+        "pais": "Paraguay",
+        "color": "#003366"
+    },
+    {
+        "pais": "Panama",
+        "color": "#d91023"
+    },
+    {
+        "pais": "Norway",
+        "color": "#da291c"
+    },
+    {
+        "pais": "Northern Ireland",
+        "color": "#006a4e"
+    },
+    {
+        "pais": "North Korea",
+        "color": "#ee0000"
+    },
+    {
+        "pais": "Nigeria",
+        "color": "#008751"
+    },
+    {
+        "pais": "New Zealand",
+        "color": "#000000"
+    },
+    {
+        "pais": "Netherlands",
+        "color": "#ff6103"
+    },
+    {
+        "pais": "Senegal",
+        "color": "#00853f"
+    },
+    {
+        "pais": "Serbia and Montenegro",
+        "color": "#d11c1f"
+    },
+    {
+        "pais": "Mexico",
+        "color": "#006847"
+    },
+    {
+        "pais": "Slovakia",
+        "color": "#0000ff"
+    },
+    {
+        "pais": "Yugoslavia",
+        "color": "#ff0000"
+    },
+    {
+        "pais": "Wales",
+        "color": "#d30918"
+    },
+    {
+        "pais": "Uruguay",
+        "color": "#4da6ff"
+    },
+    {
+        "pais": "United States",
+        "color": "#b22234"
+    },
+    {
+        "pais": "United Arab Emirates",
+        "color": "#00732f"
+    },
+    {
+        "pais": "Ukraine",
+        "color": "#0060b0"
+    },
+    {
+        "pais": "Turkey",
+        "color": "#e30a17"
+    },
+    {
+        "pais": "Tunisia",
+        "color": "#e70013"
+    },
+    {
+        "pais": "Trinidad and Tobago",
+        "color": "#d91023"
+    },
+    {
+        "pais": "Togo",
+        "color": "#006a4e"
+    },
+    {
+        "pais": "Switzerland",
+        "color": "#d52b1e"
+    },
+    {
+        "pais": "Sweden",
+        "color": "#005cbf"
+    },
+    {
+        "pais": "Spain",
+        "color": "#ff0000"
+    },
+    {
+        "pais": "Soviet Union",
+        "color": "#cc0000"
+    },
+    {
+        "pais": "South Korea",
+        "color": "#003478"
+    },
+    {
+        "pais": "South Africa",
+        "color": "#fedf00"
+    },
+    {
+        "pais": "Slovenia",
+        "color": "#008000"
+    },
+    {
+        "pais": "Morocco",
+        "color": "#c1272d"
+    },
+    {
+        "pais": "Kuwait",
+        "color": "#007f3e"
+    },
+    {
+        "pais": "Angola",
+        "color": "#ce1126"
+    },
+    {
+        "pais": "Denmark",
+        "color": "#c60c30"
+    },
+    {
+        "pais": "Czech Republic",
+        "color": "#e30a17"
+    },
+    {
+        "pais": "Cuba",
+        "color": "#002a8f"
+    },
+    {
+        "pais": "Croatia",
+        "color": "#dc143c"
+    },
+    {
+        "pais": "Costa Rica",
+        "color": "#003893"
+    },
+    {
+        "pais": "Colombia",
+        "color": "#ffda00"
+    },
+    {
+        "pais": "China",
+        "color": "#de2910"
+    },
+    {
+        "pais": "Chile",
+        "color": "#da291c"
+    },
+    {
+        "pais": "Canada",
+        "color": "#ff0000"
+    },
+    {
+        "pais": "Cameroon",
+        "color": "#1eb53a"
+    },
+    {
+        "pais": "Bulgaria",
+        "color": "#00966e"
+    },
+    {
+        "pais": "Brazil",
+        "color": "#ffcc00"
+    },
+    {
+        "pais": "Bosnia and Herzegovina",
+        "color": "#005eb8"
+    },
+    {
+        "pais": "Bolivia",
+        "color": "#b71234"
+    },
+    {
+        "pais": "Belgium",
+        "color": "#000000"
+    },
+    {
+        "pais": "Austria",
+        "color": "#e30a17"
+    },
+    {
+        "pais": "Australia",
+        "color": "#0083c7"
+    },
+    {
+        "pais": "Argentina",
+        "color": "#75bdd1"
+    },
+    {
+        "pais": "Czechoslovakia",
+        "color": "#e30a17"
+    },
+    {
+        "pais": "Dutch East Indies",
+        "color": "#da251d"
+    },
+    {
+        "pais": "Japan",
+        "color": "#1e3799"
+    },
+    {
+        "pais": "Ecuador",
+        "color": "#ffcc00"
+    },
+    {
+        "pais": "Jamaica",
+        "color": "#008000"
+    },
+    {
+        "pais": "Ivory Coast",
+        "color": "#ff7300"
+    },
+    {
+        "pais": "Italy",
+        "color": "#0066b2"
+    },
+    {
+        "pais": "Israel",
+        "color": "#1d8c41"
+    },
+    {
+        "pais": "Iraq",
+        "color": "#007a3e"
+    },
+    {
+        "pais": "Iran",
+        "color": "#da251d"
+    },
+    {
+        "pais": "Iceland",
+        "color": "#0048c4"
+    },
+    {
+        "pais": "Hungary",
+        "color": "#e30a17"
+    },
+    {
+        "pais": "Honduras",
+        "color": "#003893"
+    },
+    {
+        "pais": "Haiti",
+        "color": "#002d62"
+    },
+    {
+        "pais": "Greece",
+        "color": "#0d5eaf"
+    },
+    {
+        "pais": "Ghana",
+        "color": "#006b3f"
+    },
+    {
+        "pais": "Germany",
+        "color": "#000000"
+    },
+    {
+        "pais": "France",
+        "color": "#002395"
+    },
+    {
+        "pais": "England",
+        "color": "#fff200"
+    },
+    {
+        "pais": "El Salvador",
+        "color": "#0000ff"
+    },
+    {
+        "pais": "Egypt",
+        "color": "#cc0000"
+    },
+    {
+        "pais": "Zaire",
+        "color": "#008000"
+    }
+]

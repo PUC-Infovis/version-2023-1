@@ -1,0 +1,125 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#container {
+    background-color: white;
+    margin: 2px;
+    width: 99vw;
+    height: 99vh;
+}
+
+#visPrincipal {
+    background-color: whitesmoke;
+    background-image: linear-gradient(0deg, grey, transparent 2px), linear-gradient(90deg, grey, transparent 2px);
+    background-size: 6em 6em;
+    position: relative;
+    float: right;
+    border-radius: 20px;
+    width: 49.6%;
+    height: 99.6%;
+}
+
+
+#visLateral {
+    background-color: lightblue;
+    opacity: 0.8;
+    float: left;
+    border-radius: 20px;
+    width: 40%; 
+    height: 99.6%;
+    border: 1px solid gray;
+}
+
+#vis1 {
+    width: 100%;
+    height: 100%;
+}
+
+#rule {
+    width: 100%;
+    height: 5%;
+}
+
+#box {
+    width: 100%;
+    height: 95%;
+}
+
+#vis2 {
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+#treeMap {
+    width: 100%;
+    height: 95%;
+}
+#treeMapScore {
+    width: 100%;
+    height: 5%;
+}
+
+#boxPlot {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+#rulePlot {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+#circularPacking {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid grey;
+}
+#CheckBoxBox {
+    width: 9%;
+    height: 98%;
+    overflow-y: scroll;
+    position: relative;
+    padding: 0.5%;
+}
+#checkbox {
+    /* width: 20%; */
+    border-radius: 20px;
+    border: 1px solid grey;
+    padding:10px;
+}
+
+#treeMapSVG {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+#goBack {
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
+
+#resetZoom {
+    position: absolute;
+    top: 96%;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
+
+.treeMapTextTitles {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
